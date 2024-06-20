@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I graduated from graduate school of Phisycs Department at Novosibirsk State University.
+I'm interested in Plasma Phisycs, HPC, parallel computing and dense linear algebra algorithms (LAPACK)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardFedorenkov)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EduardFedorenkov/EduardFedorenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
